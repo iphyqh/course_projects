@@ -1,2 +1,2 @@
-# Graphics
-A record for small graphics projects
+# Graphics Course Project
+Course projects for COMP4411
