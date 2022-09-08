@@ -1,2 +1,2 @@
 # Graphics Course Project
-Course projects for COMP4411
+Course projects for my undergraduate level CG course
