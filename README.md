@@ -1,2 +1,2 @@
 # Graphics
-A record for finished projects
+A record for small graphics projects
