@@ -1,2 +1,2 @@
 # Graphics Course Project
-Course projects for my undergraduate level CG course.
+Everything on UG Computer Graphics course's projects
